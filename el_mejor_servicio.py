@@ -4,6 +4,7 @@ def Diccionario(dicc_empleado,rut,nombre,apellido,depto,sbase):
 def Diccionario2(dicc_empleado,rut,nombre,apellido,depto,sbase):
     dicc_empleado[depto] = rut, nombre, apellido, depto, sbase
     return dicc_empleado
+#Hola
 
 print("\n\n\t El Mejor Servicio")
 #Listas
